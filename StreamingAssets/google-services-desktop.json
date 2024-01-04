@@ -1,0 +1,34 @@
+{
+  "project_info": {
+    "project_number": "920386297184",
+    "project_id": "yomi-gardens",
+    "storage_bucket": "yomi-gardens.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920386297184:android:da3ceaa2b9af74721ad205",
+        "android_client_info": {
+          "package_name": "com.yomigames.yomigardens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDjSTCka_s6HoewmSTyQqSG02iu76Wf7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920386297184-f2lg5pv3oggmdvv46734r089u3n13rll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
